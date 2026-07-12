@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B5CF6,6366F1,4F46E5&height=150&section=header&text=Rohit&fontSize=50&fontColor=ffffff&fontAlignY=45" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B5CF6,6366F1,4F46E5&height=150&section=header&text=Rohit%20Devdas&fontSize=50&fontColor=ffffff&fontAlignY=45" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=500&height=50&lines=Cloud+%26+DevSecOps+Engineer;AWS+Cloud+Architect;Security+%26+Automation+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=50&lines=Cloud+Computing+Enthusiast;DevOps+%26+Cloud+Infrastructure+Intern;AWS+Certified+Solutions+Architect;MCA+Student" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Education-Cloud%20%26%20DevSecOps-8B5CF6?style=flat-square&logo=gitbook&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-India-6366F1?style=flat-square&logo=googlemaps&logoColor=white" />
-  <a href="https://rohitdevdas.github.io"><img src="https://img.shields.io/badge/Portfolio-Explore-4F46E5?style=flat-square&logo=visualstudiocode&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rohitdevdas"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rohitdevdas240205@gmail.com"><img src="https://img.shields.io/badge/Email-rohitdevdas240205%40gmail.com-D11141?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Education-MCA%20(Storage%20%26%20Cloud)-8B5CF6?style=flat-square&logo=gitbook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Bangalore,%20India-6366F1?style=flat-square&logo=googlemaps&logoColor=white" />
+  <a href="https://www.linkedin.com/in/rohit-devdas-5a73b0395"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rohitmr2324@gmail.com"><img src="https://img.shields.io/badge/Email-rohitmr2324%40gmail.com-D11141?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Rohit24-devOp"><img src="https://img.shields.io/badge/GitHub-Rohit24--devOp-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghvc/?username=Rohit24-devOp&color=8B5CF6&style=flat-square&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/Rohit24-devOp?color=6366F1&label=Followers&style=flat-square" />
@@ -24,124 +24,140 @@
 
 ## 🌌 About Me
 
-I am an enterprise-focused Cloud & DevSecOps Engineer dedicated to building high-availability, highly secure, and automated cloud systems. With a strong software engineering foundation, I design production-grade Infrastructure as Code (IaC) solutions, optimize continuous delivery pipelines, and enforce strict defense-in-depth cloud security controls. 
+I am a highly motivated **Master of Computer Applications (MCA) student** specializing in **Storage and Cloud Technology**, and an **AWS Certified Solutions Architect (Associate)**. I have hands-on experience across major cloud platforms (AWS, Azure, GCP), virtualization systems, Linux administration, and modern DevSecOps methodologies.
 
-Driven by a product engineering mindset, I bridge the gap between application code and cloud architecture, incorporating analytics and interactive diagnostic consoles to monitor health, security, and costs.
+Having completed a Cloud Computing internship, I focus on building secure, scalable, and automated cloud infrastructures. I bridge the gap between application development and system operations by writing clean code, provisioning reliable Infrastructure as Code (IaC), and designing efficient CI/CD pipelines.
 
-* 🚀 **Core Expertise:** Cloud Networking, Infrastructure as Code, CI/CD Automation, DevSecOps.
-* 🤖 **AI/ML & Automation:** Designing anomaly-detection algorithms for WAF logs and deploying scalable model architectures.
-* 🛡️ **Security First:** Implementing stateless network filters, least-privilege IAM, and static application security testing (SAST).
-* 💼 **Open To:** Senior DevSecOps Engineer, Cloud Infrastructure Architect, or Cloud Security Consultant positions.
+* 🚀 **Core Interests:** Cloud Networking, Infrastructure as Code, CI/CD Automation, Virtualization.
+* 🛡️ **Security-Oriented:** Designing IAM policies, vulnerability assessments, and secure IAM auditing.
+* 💼 **Open To:** Cloud Support, DevOps, and Infrastructure Operations opportunities.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,python,bash,githubactions,docker,kubernetes,linux,git,postgres,mongodb,react,nodejs,html,css" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,docker,kubernetes,terraform,jenkins,githubactions,git,github,py,bash,js,java,react,nextjs,html,css,tailwind,nodejs,express,spring,mysql,postgres,mongodb,sqlite" />
 </p>
 
-### 🛠️ Core Technologies
+### 🛠️ Core Competencies
 
-* **Languages:** Python, Bash, HTML/CSS, JavaScript
-* **Frontend & Visualization:** React, Streamlit (for dashboards)
-* **Backend & Databases:** Node.js, PostgreSQL, MongoDB
-* **Cloud & DevOps:** AWS, Terraform, Docker, Kubernetes, Linux, GitHub Actions, Git
+* **Cloud Platforms:** AWS (EC2, S3, IAM, VPC, CloudWatch, Lambda, RDS), Microsoft Azure (VMs), GCP (Compute Engine, Cloud Storage, IAM)
+* **DevOps & CI/CD:** Docker, Kubernetes, Terraform, GitHub Actions, Jenkins, Infrastructure as Code (IaC)
+* **Virtualization & OS:** VMware, Oracle VirtualBox, Linux administration, Windows Server
+* **Languages & Scripting:** Python, Bash, JavaScript (ES6+), Java
+* **Databases:** MySQL, MongoDB, PostgreSQL, DynamoDB, SQLite
+* **Web Development:** React.js, Next.js, Express.js, Java Spring Boot, HTML5/CSS3, Tailwind CSS, RESTful API Design
+* **Security & Practices:** SIEM, Cyber Defense Fundamentals, IAM, DevSecOps Fundamentals, Web Security, Access Control
 
 ---
 
-## 🤖 AI / ML & Automation Expertise
+## 💼 Internship Experience
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| **Log Anomaly Detection** | Advanced | Developed custom Python scripts to parse, extract patterns, and identify security anomalies in AWS WAF JSON logs. |
-| **Model Scaling & Deployment** | Intermediate | Implemented elastic architectures using AWS Auto Scaling Groups (ASG) and Application Load Balancers for model endpoints. |
-| **Automated Security Pipelines** | Advanced | Integrated automated scanning tools (Trivy) into CI/CD workflows to prevent insecure package and base-image deployments. |
+### **CodTech IT Solutions Pvt. Ltd.** | *Cloud Computing Intern*
+**June 2026 – July 2026** | Hyderabad, India (Remote)
+
+* Completed a 6-week Cloud Computing internship with hands-on exposure to core AWS services – EC2, S3, and IAM.
+* Configured and deployed cloud-based virtual machine instances; monitored resource usage for performance and cost efficiency.
+* Practiced Linux system administration and troubleshooting within a cloud infrastructure environment.
+* Documented configuration steps and infrastructure workflows, completing all assigned modules successfully.
 
 ---
 
 ## 🏆 Featured Projects
 
 <details>
-<summary><b>🛡️ AWS DevSecOps Control Center</b></summary>
+<summary><b>🤖 Cloud DevOps Automation Platform</b></summary>
 <br />
 
-> **Enterprise-grade AWS security dashboard and attack simulation suite.**
+> **Direct source-to-infrastructure code generator.**
 
-### Project Overview
-A comprehensive DevSecOps control center consisting of a Terraform-provisioned AWS environment, an automated attack simulator (Python/Streamlit), and an interactive metrics dashboard that parses and visualizes WAF traffic.
-
-| Parameter | Specification |
-|---|---|
-| **Stack** | Terraform, Python, AWS WAF, Streamlit, Trivy, GitHub Actions |
-| **Scale** | Multi-AZ security testing across simulated workloads |
-| **Performance** | Real-time log ingestion and dashboard updating < 1.2s |
-| **Security** | Automated vulnerability scans (Trivy SAST/DAST) in runner |
-| **Impact** | Reduced security verification time by 80% through automated reporting |
-| **Repository** | [AWS-DevSecOps-Control-Center](https://github.com/Rohit24-devOp/AWS-DevSecOps-Control-Center) |
-
-#### Technical Deep-Dive
-* Built an end-to-end testing platform to execute simulated network attacks (SQL Injection, XSS, Path Traversal) and verify AWS WAF rule enforcement.
-* Generated automated compliance audit reports in PDF/CSV format with full attack logs and vulnerability breakdown.
-* Built a modern, glassmorphic Streamlit dashboard that runs alongside the pipeline to display network metrics and threat intelligence.
+* **Tech Stack:** React/Vite, Java Spring Boot, Docker, Terraform, Kubernetes, GitHub Actions
+* **Description:** Auto-generates Dockerfiles, Terraform IaC scripts, Kubernetes manifests, and GitHub Actions CI/CD workflows directly from uploaded source code.
+* **Key Features:**
+  - Automated analysis of source repository structure.
+  - Generates deployment-ready Infrastructure as Code configuration files.
+  - Integrates pipeline files (GitHub Actions) for immediate automated builds.
 
 </details>
 
 <br />
 
 <details>
-<summary><b>🏗️ Enterprise AWS Multi-Tier VPC Architecture</b></summary>
+<summary><b>🏗️ ArchForge – Multi-Cloud Architecture Generator</b></summary>
 <br />
 
-> **Production-ready, highly-available networking and compute infrastructure.**
+> **Generates multi-cloud cloud diagrams and cost estimates from text inputs.**
 
-### Project Overview
-A multi-tier AWS network environment designed for security, scalability, and high-availability across multiple Availability Zones, provisioned entirely as Infrastructure as Code.
-
-| Parameter | Specification |
-|---|---|
-| **Stack** | Terraform, AWS VPC, EC2, Application Load Balancer, CloudWatch, IAM |
-| **Scale** | Dual Availability Zones, 3-tier subnets (Public, Private App, Private DB) |
-| **Performance** | Elastic scaling (2 to 6 EC2 instances) matching real-time traffic |
-| **Security** | Bastion host jump server, stateless NACLs, stateful Security Groups |
-| **Impact** | High-availability design ensuring 99.99% infrastructure uptime |
-| **Repository** | [AWS-Enterprise-VPC](https://github.com/Rohit24-devOp/AWS-DevSecOps-Control-Center/tree/main/AWS%20VPC%20project) |
-
-#### Technical Deep-Dive
-* Segmented the VPC using a 3-tier subnet architecture to enforce strong network isolation between web, application, and database layers.
-* Provisioned NAT Gateways to grant secure outbound internet access for patching and package installation in the private tiers without exposing them to incoming traffic.
-* Configured CloudWatch dashboards, alarms, and SNS email alerts to automatically notify administrators of elevated CPU usage or elevated 5xx error rates on the ALB.
+* **Tech Stack:** TypeScript, Vite, Multi-Cloud (AWS, Azure, GCP)
+* **Description:** Converts plain-English problem statements into AWS, Azure, or GCP architecture diagrams with service breakdowns, best-practice tips, and cost-tier estimates.
+* **Key Features:**
+  - Dynamic interactive cloud diagram builder.
+  - Converts natural language prompts to cloud architecture topologies.
+  - Compares resource mapping across AWS, Azure, and GCP with cost approximations.
 
 </details>
 
+<br />
 
+<details>
+<summary><b>🛡️ AWS IAM Security Auditor</b></summary>
+<br />
 
-## 🏆 Key Achievements
+> **Automated security scanner for AWS Identity and Access Management.**
 
-<p align="center">
+* **Tech Stack:** Python, Boto3, Streamlit
+* **Description:** Audits AWS IAM for missing MFA, excessive privileges, and stale access keys; maps findings to CIS/NIST/ISO 27001 and generates PDF, CSV, and SIEM-ready reports.
+* **Key Features:**
+  - Evaluates IAM configurations against industry security benchmarks.
+  - Automatically identifies privilege escalation vectors and un-rotated credentials.
+  - Generates exportable security compliance reports.
 
-| Recognition | Details |
-|---|---|
-| **Infrastructure Optimizer** | Reduced development infrastructure run costs by 35% through optimal NAT Gateway and scaling policies. |
-| **DevSecOps Champion** | Achieved 100% automated security compliance gates on test repositories using Trivy scan integrations. |
-| **Open Source Contributor** | Maintained active repositories showcasing production-grade AWS modules utilized by peer engineers. |
+</details>
 
-</p>
+<br />
+
+<details>
+<summary><b>🔗 AWS Serverless URL Shortener</b></summary>
+<br />
+
+> **High-performance, cost-efficient serverless redirect engine.**
+
+* **Tech Stack:** AWS Lambda, API Gateway, DynamoDB, S3
+* **Description:** Serverless URL shortener using S3 static-hosting redirects, Lambda, DynamoDB, and API Gateway – scalable, cost-efficient, and event-driven with no dedicated servers.
+* **Key Features:**
+  - Extremely low run-cost through event-driven compute and object hosting.
+  - Sub-millisecond redirects using S3 routing rules.
+  - Scalable data storage on DynamoDB.
+
+</details>
 
 ---
 
 ## 📜 Certifications
 
 ### 🌐 Amazon Web Services (AWS)
-* <img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect--Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-* <img src="https://img.shields.io/badge/AWS-Certified%20SysOps%20Administrator--Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+* <img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20--%20Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+* <img src="https://img.shields.io/badge/AWS-Academy%20Graduate%20--%20Cloud%20Architect-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
 
-### 🛢️ Database & Systems
-* <img src="https://img.shields.io/badge/Oracle-Certified%20Associate%20Java%20SE%208-F80000?style=flat-square&logo=oracle&logoColor=white" />
+### 🐳 Virtualization, Systems & Networking
+* <img src="https://img.shields.io/badge/Docker-Foundations%20Professional%20Certificate-2496ED?style=flat-square&logo=docker&logoColor=white" />
+* <img src="https://img.shields.io/badge/Microsoft-Security%20Essentials%20Professional-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+* <img src="https://img.shields.io/badge/Jain%20University-Networking%20Architecture-blue?style=flat-square&logo=google-scholar&logoColor=white" />
+* <img src="https://img.shields.io/badge/LinkedIn-System%20Design%20in%20Cloud-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+* <img src="https://img.shields.io/badge/UniAthena-Basics%20of%20Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
-### 🎓 Academic & Networking
-* <img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing--Elite%20Gold-blue?style=flat-square&logo=google-scholar&logoColor=white" />
-* <img src="https://img.shields.io/badge/Cisco-CCNA%20Routing%20and%20Switching-049FD9?style=flat-square&logo=cisco&logoColor=white" />
+---
+
+## 🎓 Education
+
+* **Jain (Deemed-to-be University)** | *Expected 2027*
+  - **Master of Computer Applications (MCA)** – Storage & Cloud Technology
+  - Bangalore, India
+
+* **SES Shivaji Arts & Commerce College (Karnataka University, Dharwad)** | *2022 – 2025*
+  - **Bachelor of Computer Applications (BCA)**
+  - Karwar, Karnataka, India
 
 ---
 
@@ -195,10 +211,10 @@ A multi-tier AWS network environment designed for security, scalability, and hig
 ## 🎯 Current Focus
 
 ```yaml
-learning: "Advanced EKS Security & Multi-Cluster Mesh Architecture"
-building: "AWS Event-Driven GuardDuty & Security Hub Automations"
-exploring: "Generative AI for Cloud Infrastructure Threat Detection"
-openTo: "Senior DevSecOps Engineer & Cloud Infrastructure Architect roles"
+learning: "Advanced Cloud Security, DevSecOps Pipelines, Kubernetes & Systems Automation"
+building: "ArchForge, Cloud DevOps Platforms, and AWS IAM Security Auditing Tools"
+exploring: "Infrastructure-as-Code best practices, virtualized systems, and cloud scaling architectures"
+openTo: "Cloud Support, Infrastructure, and DevOps Operations roles"
 ```
 
 ---
@@ -206,16 +222,15 @@ openTo: "Senior DevSecOps Engineer & Cloud Infrastructure Architect roles"
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:rohitdevdas240205@gmail.com"><img src="https://img.shields.io/badge/Gmail-rohitdevdas240205%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rohitdevdas"><img src="https://img.shields.io/badge/LinkedIn-Rohit%20Devdas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rohitmr2324@gmail.com"><img src="https://img.shields.io/badge/Gmail-rohitmr2324%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rohit-devdas-5a73b0395"><img src="https://img.shields.io/badge/LinkedIn-Rohit%20Devdas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Rohit24-devOp"><img src="https://img.shields.io/badge/GitHub-Rohit24--devOp-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://rohitdevdas.github.io"><img src="https://img.shields.io/badge/Portfolio-Explore%20Site-4F46E5?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Security is not an afterthought, it is the foundation of modern cloud scalability."</i>
+  <i>"Security, scalability, and automation are the cornerstones of modern cloud architectures."</i>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4F46E5,6366F1,8B5CF6&height=100&section=footer&text=Automate%20Everything&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%" />
