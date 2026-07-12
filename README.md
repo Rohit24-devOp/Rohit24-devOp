@@ -114,25 +114,7 @@ A multi-tier AWS network environment designed for security, scalability, and hig
 
 </details>
 
----
 
-## 💼 Professional Experience
-
-### Cloud & DevSecOps Engineer
-**Self-Employed / Open Source Contributor** | *June 2025 - Present*
-* Architected and built complete Infrastructure as Code templates for AWS web applications.
-* Engineered CI/CD pipelines incorporating static code analysis, security scanning (Trivy), and automated infrastructure deployment.
-* Authored comprehensive documentation, deployment validation scripts, and troubleshooting runbooks.
-* **Skills:** `Terraform` · `AWS` · `GitHub Actions` · `Python` · `Bash` · `DevSecOps` · `Network Security`
-
-### Associate Cloud Infrastructure Engineer
-**Contract** | *January 2024 - May 2025*
-* Maintained multi-zone network configurations and performed regular updates on VPC subnets and routing policies.
-* Monitored compute nodes, optimized auto-scaling threshold conditions, and configured CloudWatch metric monitors.
-* Implemented and managed Bastion hosts and IAM roles ensuring compliance with the principle of least privilege.
-* **Skills:** `AWS VPC` · `EC2` · `IAM` · `CloudWatch` · `Terraform` · `Systems Manager`
-
----
 
 ## 🏆 Key Achievements
 
