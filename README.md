@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B5CF6,6366F1,4F46E5&height=150&section=header&text=Rohit%20Devdas&fontSize=50&fontColor=ffffff&fontAlignY=45" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B5CF6,6366F1,4F46E5&height=150&section=header" width="100%" />
 </p>
 
 <p align="center">
